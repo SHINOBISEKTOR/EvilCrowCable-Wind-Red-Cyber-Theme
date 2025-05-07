@@ -1,5 +1,5 @@
 
-🔴⚫ Cyber Red Web Interface Theme A red-and-black "cyborg" style theme designed for the EvilCrow Cable Web Interface. Built with a futuristic aesthetic in mind, the UI uses the Orbitron font, glowing red highlights, and a dark sci-fi background to create a sleek, digital look.
+🔴⚫ Cyber Red Web Interface Theme A red-and-black "cyber" style theme designed for the EvilCrow Cable Web Interface. Built with a futuristic aesthetic in mind, the UI uses the Orbitron font, glowing red highlights, and a dark sci-fi background to create a sleek, digital look.
 
 The interface is fully responsive and optimized for mobile devices, making it easy to manage payloads and settings directly from your smartphone. All elements—from the navigation menu to the file uploader—are touch-friendly and adapt seamlessly to smaller screens.
 
