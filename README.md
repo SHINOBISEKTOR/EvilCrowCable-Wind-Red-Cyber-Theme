@@ -5,7 +5,7 @@ The interface is fully responsive and optimized for mobile devices, making it ea
 
 Perfect for field use and quick interaction with your EvilCrow Cable payload system.# EvilCrowCable-Wind
 
-ssid pass wakawaka!!*
+ssid pass-wakawaka!!
 
 
 
