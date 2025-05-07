@@ -1,5 +1,3 @@
-ONLYFORPHONES ATM still a work in progress
-
 
 🔴⚫ Cyber Red Web Interface Theme A red-and-black "cyber" style theme designed for the EvilCrow Cable Web Interface. Built with a futuristic aesthetic in mind, the UI uses the Orbitron font, glowing red highlights, and a dark sci-fi background to create a sleek, digital look.
 
