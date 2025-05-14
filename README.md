@@ -3,7 +3,7 @@ Cyber Red and a cyber blue Web Interface Theme A red-and-black "cyber" style the
 
 The interface is fully responsive and optimized for mobile devices, making it easy to manage payloads and settings directly from your smartphone. All elements—from the navigation menu to the file uploader—are touch-friendly and adapt seamlessly to smaller screens.
 
-Perfect for field use and quick interaction with your EvilCrow Cable payload system.# EvilCrowCable-Wind
+# EvilCrowCable-Wind
 
 ssid pass-wakawaka!!
 
